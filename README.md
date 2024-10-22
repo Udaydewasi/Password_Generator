@@ -1,7 +1,6 @@
 # Password_Generator
 
 
-#Overview
 The Password Generator is a simple and secure tool that generates random passwords based on user-selected criteria. Users can customize their password's length and choose whether to include uppercase letters, lowercase letters, numbers, and special characters. This tool helps improve online security by generating strong, unpredictable passwords for various accounts.
 
 Features
